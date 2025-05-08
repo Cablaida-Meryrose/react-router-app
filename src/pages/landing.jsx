@@ -18,6 +18,7 @@ const Landing = () => {
     >
       <div
         style={{
+          justifyItems: 'center',
           maxWidth: '640px',
           width: '100%',
           padding: '2rem',
@@ -79,7 +80,7 @@ const Landing = () => {
           >
             Mery Rose Cablaida
           </span>
-          ,<br /> Aspiring Full-Stack Developer 
+          ,<br /> Aspiring Full-Stack Developer
         </h1>
 
         {/* Subtitle */}
